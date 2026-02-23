@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+torchcam
+fastapi
+uvicorn
+pillow
+opencv-python
+jinja2
+python-multipart
