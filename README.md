@@ -16,7 +16,7 @@ A deep learning project for multi-class skin lesion classification using **Effic
 
 🎥 **Project Demo**
 
-[▶️ Watch the Demo](https://github.com/Bara7-Qusai/skin-cancer/blob/main/skin-cancer.mp4)
+[▶️ Watch the Demo](https://drive.google.com/drive/folders/1oiu3BNblQc8PRHwbGCSM5FGMK2ldB2XC?usp=drive_link)
 
 ## Tech Stack
 
